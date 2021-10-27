@@ -1,0 +1,1 @@
+proverka raboti SSH
